@@ -4,7 +4,7 @@ One modules/page is automated:
 - **Search** </br>
 
 
-Key test cases (total **3**) are automated.
+3 test cases are automated.
 
 For failed test cases it will take a screenshot aswell at the point of failure. </br>
 
