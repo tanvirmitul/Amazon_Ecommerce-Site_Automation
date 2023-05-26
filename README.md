@@ -35,7 +35,7 @@ For failed test cases it will take a screenshot aswell at the point of failure. 
  ```
 allure generate allure-results --clean -o allure-report
 allure serve allure-results
-
+ ```
 **Below is my overall report:** </br>
 
 ![testreportform] (https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/assets/59876702/0a193e85-857b-45a4-9890-a535fa633d9d)</br>
