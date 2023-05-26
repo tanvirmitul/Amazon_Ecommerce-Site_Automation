@@ -41,7 +41,9 @@ allure serve allure-results
 ![testreportform](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/assets/59876702/85ea7848-5d87-4527-9674-ffa09da6df4c)</br>
 
 ![Allure1](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/assets/59876702/ff4a7d2e-4bb9-46c9-8d81-a7f8b7b18b6b) </br>
+
 ![ALLURE2](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/assets/59876702/371839cc-6041-47d4-9d1e-fc0b9641c4e4) </br>
+
 ![ALLURE3](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/assets/59876702/f63d8e7b-e5e4-446f-b457-a263659d51e9) </br>
 
 - ## **Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1dDEzeWQv7v89_W7nniw3-7y80huEWrEs/view?usp=sharing) </br>
