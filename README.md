@@ -1,6 +1,6 @@
 # Amazon_Ecommerce-Site_Automation
 ### This is a complete project where an e-commerce site [Amazon.com](https://www.amazon.com/) is automated by writing test suites using selenium-webdriver and TestNg as testing framework.
-One modules/page is automated:
+**One modules/page is automated:**
 - **Search** </br>
 
 
