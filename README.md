@@ -4,9 +4,9 @@ One modules/page is automated:
 - **Search** </br>
 
 
-**3 test cases are automated.
+**3 test cases are automated.**
 
-**For failed test cases it will take a screenshot aswell at the point of failure. </br>
+**For failed test cases it will take a screenshot aswell at the point of failure.** </br>
 
 **The test runner code can be extracted from this:**
 [TestRunner](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/blob/main/src/test/java/testrunner/HomePageTestRunner.java)</br>
