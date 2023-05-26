@@ -2,7 +2,10 @@
 ### This is a complete project where an e-commerce site [Amazon.com](https://www.amazon.com/) is automated by writing test suites using selenium-webdriver and TestNg as testing framework.
 One modules/page is automated:
 - **Search** </br>
+
+
 Key test cases (total **3**) are automated.
+
 For failed test cases it will take a screenshot aswell at the point of failure. </br>
 **The test runner code can be extracted from this:**
 [TestRunner](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/blob/main/src/test/java/testrunner/HomePageTestRunner.java)</br>
