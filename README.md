@@ -7,6 +7,7 @@ One modules/page is automated:
 Key test cases (total **3**) are automated.
 
 For failed test cases it will take a screenshot aswell at the point of failure. </br>
+
 **The test runner code can be extracted from this:**
 [TestRunner](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/blob/main/src/test/java/testrunner/HomePageTestRunner.java)</br>
 ### Technology: </br>
