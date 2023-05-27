@@ -48,4 +48,4 @@ allure serve allure-results
 
 ![Allure4](https://github.com/tanvirmitul/Amazon_Ecommerce-Site_Automation/assets/59876702/68039bbf-e763-49ff-852b-5a5e8dbe12c0)  </br>
 
-- ## **Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1dDEzeWQv7v89_W7nniw3-7y80huEWrEs/view?usp=sharing) </br>
+- ## **Here is the overall walkthrough of the project:** ![Video](https://drive.google.com/file/d/11dyggWhbLP5bMvIdZcZ48sLfyhKCIFMm/view?usp=share_link) </br>
